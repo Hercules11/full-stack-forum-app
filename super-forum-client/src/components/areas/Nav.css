@@ -1,0 +1,16 @@
+nav {
+    background-color: rgb(106, 198, 217);
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.nav-mobile-menu {
+    margin-right: 1em;
+}
+
+.web-name a {
+    text-decoration: none;
+    color: inherit;
+}

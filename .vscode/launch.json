@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "name": "Run Server Script: start",
+            "request": "launch",
+            "command": "npm run start",
+            "cwd": "${workspaceFolder}\\super-forum-server"
+        },
+        {
+            "type": "node-terminal",
+            "name": "Run Client Script: start",
+            "request": "launch",
+            "command": "npm run start",
+            "cwd": "${workspaceFolder}\\super-forum-client"
+        }
+    ]
+}
