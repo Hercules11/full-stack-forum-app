@@ -14,7 +14,7 @@
 
 
 > [!IMPORTANT]
-> 截图：
+> 截图：<br>
 > <img src="image.png" alt="PC 端首页" title="PC 端首页" width="600px" height="auto">
 > <img src="image-1.png" alt="Mobile 首页" title="Mobile 首页" width="300px" height="auto">
 
