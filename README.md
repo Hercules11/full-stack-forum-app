@@ -1,5 +1,5 @@
 > [!NOTE]
-> 全栈论坛学习项目，功能包括用户注册，登录验证，帖子发布，评论帖子；:grinning:
+> 全栈论坛学习项目，功能包括用户注册，登录验证，帖子发布，评论帖子； :grinning:
 > 技术栈：React + Redux + Express + Postgres + Graphql
 
 
